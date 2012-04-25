@@ -1,0 +1,12 @@
+Added horizontal scrollbar to start screen.
+
+New options:
+
+"create network config for new SSIDs" checkbox allows initial connection to new SSIDs without manual interaction.
+
+"Scan Intervall for WLans (SSIDs)" drop down box allows setting the rescan intervall in seconds.
+
+"Hide red icon 'Waiting for SSID'" suppresses the notification icon if the service is inactive.
+
+"Enable LogCat (debug logging)" to switch on debug logging.  
+

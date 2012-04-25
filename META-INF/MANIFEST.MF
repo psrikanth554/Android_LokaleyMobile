@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout/paramsettings.xml
+SHA1-Digest: F6OR273o0wwFDpJ+EnzDJD2t+SI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 8bb7OJIHFPP2Rd9v0xz4HaZMb/I=
+
+Name: res/drawable/hsli_green.png
+SHA1-Digest: mo7RVWjaXMKNcc0Z6tR5km2Ihi8=
+
+Name: res/raw/release_notes.txt
+SHA1-Digest: nt5BnTaWkFD+AR1VLy9DZamYtus=
+
+Name: res/layout/hotspot_login_monitor.xml
+SHA1-Digest: eqiVEfnVVTZGfQTYopGHXFHpSA8=
+
+Name: res/layout/splash_screen.xml
+SHA1-Digest: C+iRE2uNjraIvW2o5TZ6b/WpByE=
+
+Name: resources.arsc
+SHA1-Digest: E/opUQCncnKm4J1TawA0NGoMzS4=
+
+Name: classes.dex
+SHA1-Digest: mS2GHrTOXQuyhIBr9IDNNM/AF6M=
+
+Name: res/drawable/hsli_yellow.png
+SHA1-Digest: zu1zNsIhdXg2bHHrrEpM7iMfXuo=
+
+Name: res/drawable/hotspot_login_icon.png
+SHA1-Digest: BDVEO7tpUVvy1J06Cqer1e0mSGQ=
+
+Name: res/layout/hotspot_login.xml
+SHA1-Digest: NP0M+7HCicoN1Ra4b+17wXcYejM=
+
+Name: res/drawable/hsli_red.png
+SHA1-Digest: fR+MA9+7DhMzc6yu1Pu0kfSqU+w=
+
